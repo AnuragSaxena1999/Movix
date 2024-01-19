@@ -1,0 +1,22 @@
+/* card.css */
+.card {
+  /* Base card styles */
+  /* width: 200px; */
+  /* height: 300px; */
+  /* margin: 10px; */
+  /* background-color: #fff; */
+  /* border-radius: 2px; */
+  transition: transform 0.3s ease-in-out;  
+  /* Smooth zoom transition */
+} 
+.backcolor{
+    background: #780206;
+  background: -webkit-linear-gradient(to right, #061161, #780206);
+  background: linear-gradient(to right, #061161, #780206);
+}
+
+.card:hover {
+  transform: scale(1.07); /* Zoom in on hover */
+  /* cursor: pointer;  */
+  /* Optional: Change cursor to indicate interactivity */
+}
