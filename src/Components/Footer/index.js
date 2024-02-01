@@ -25,7 +25,7 @@ const FooterComponent = () => {
               <h4 style={{ color: "#ff5860", fontFamily: "Times New Roman" }}>Useful Links</h4>
               <hr />
               <ul className="list-unstyled">
-                <li ><Link to="/movie" style={{ color: "white" }}>Anurag</Link></li>
+                <li ><Link to="/movie" style={{ color: "white" }}>Movies</Link></li>
                 <li><Link to="/series" style={{ color: "white" }}>Tv Series</Link></li>
                 <li><Link to="/search" style={{ color: "white" }}>Seacrh</Link></li>
 
