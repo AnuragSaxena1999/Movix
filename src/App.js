@@ -1,4 +1,4 @@
-//import './App.css';
+import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import RouterContainer from './Route';
 import RouterComponent from './Route';
