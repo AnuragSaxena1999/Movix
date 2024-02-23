@@ -7,6 +7,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #2b2b31;
   
+  
+}
+body::-webkit-scrollbar{
+  background-color: transparent;
+}
+body::-webkit-scrollbar{
+  background-color:#2b2b31 ;
+  border-radius: 20px;
 }
 .header .navbar{
   background: #2b2b31;
