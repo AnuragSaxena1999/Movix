@@ -9,8 +9,7 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: -webkit-linear-gradient(to right,#780206, #061161);
-  background: linear-gradient(to right,#780206, #061161);
+  background-color: #000000;
   border-radius: 12px;
 }
 
