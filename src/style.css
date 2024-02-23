@@ -1,16 +1,16 @@
 ::-webkit-scrollbar {
-  width: 10px;
+  width: 12px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #780206;
+  background: #061161;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: -webkit-linear-gradient(to right, #061161, #780206);
-  background: linear-gradient(to right, #061161, #780206);
+  background: -webkit-linear-gradient(to right,#780206, #061161);
+  background: linear-gradient(to right,#780206, #061161);
   border-radius: 12px;
 }
 
