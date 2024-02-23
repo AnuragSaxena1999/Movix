@@ -9,9 +9,7 @@ body {
   
   
 }
-body::-webkit-scrollbar{
-  background-color: transparent;
-}
+
 
 .header .navbar{
   background: #2b2b31;
